@@ -402,6 +402,26 @@ Important limitations:
 - Unit, integration, regression, and adversarial test suites with known-good and known-bad models.
 - Authentication, configurable API base URL, local PlantUML rendering, and deployment hardening.
 
-## License and citation
+## Citation
 
-No license is included in the supplied flow artifacts. **Choose a license before publishing** and add a `LICENSE` file. If the project supports an academic publication, add the appropriate citation and project attribution here rather than assuming an existing paper covers this implementation.
+This project builds upon the concepts and methodology presented in the following publication:
+
+Petrović, N.; Krstić, D.; Głąbowski, M. **LLM-Driven Approach for Safe and Secure Network Management by Design in IoT-Based Systems.** *Symmetry* **2026**, *18*(2), 337. https://doi.org/10.3390/sym18020337
+
+If you use this project or its underlying methodology in academic research, please cite the publication above.
+
+**BibTeX:**
+
+```bibtex
+@article{petrovic2026llm,
+  author  = {Petrović, Nenad and Krstić, D. and Głąbowski, M.},
+  title   = {LLM-Driven Approach for Safe and Secure Network Management by Design in IoT-Based Systems},
+  journal = {Symmetry},
+  year    = {2026},
+  volume  = {18},
+  number  = {2},
+  pages   = {337},
+  doi     = {10.3390/sym18020337},
+  url     = {https://doi.org/10.3390/sym18020337}
+}
+```
